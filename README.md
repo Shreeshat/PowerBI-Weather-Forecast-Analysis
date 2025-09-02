@@ -20,7 +20,7 @@ It provides insights into temperature trends, weather conditions, precipitation,
 
 ## 🖼️ Dashboard Screenshot
 
-[Weather Forecast Dashboard](PBI.png)
+[Weather Forecast Dashboard](Screenshot 2025-09-02 202726.png)
 
 ---
 
